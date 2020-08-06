@@ -20,3 +20,5 @@ Thanks for visiting my profile!
 - 👩‍💻 I’m currently working on leveraging NLP towards understanding human behavior and language use.
 - 👩‍🎓 I am a PhD Computer Science student at the University of North Carolina at Charlotte.
 - ⚡ I enjoy reading books, listening to music, and getting to know people. Feel free to reach out!
+
+Visit my website - [https://khyatimahajan.com](https://khyatimahajan.com)
