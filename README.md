@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Thanks for visiting my profile!
 
-- 👩‍💻 I’m currently working on leveraging NLP towards understanding human behavior and language use.
+- 👩‍💻 I’m currently working on leveraging NLP towards understanding how language use can reflect human behavior.
 - 👩‍🎓 I am a PhD Computer Science student at the University of North Carolina at Charlotte.
-- ⚡ I enjoy reading books, listening to music, and getting to know people. Feel free to reach out!
+- ⚡ I'm an amateur poet, and I enjoy science fiction, listening to music, and getting to know people. Feel free to reach out!
 
 Visit my website - [https://khyatimahajan.com](https://khyatimahajan.com)
