@@ -19,6 +19,6 @@ Thanks for visiting my profile!
 
 - 👩‍💻 I’m currently working on leveraging NLP towards understanding how language use can reflect human behavior.
 - 👩‍🎓 I am a PhD Computer Science student at the University of North Carolina at Charlotte.
-- ⚡ I'm an amateur poet, and I enjoy science fiction, listening to music, and getting to know people. Feel free to reach out!
+- ⚡ I'm an amateur [poet/writer](https://medium.com/@mahajan.khyati), and I enjoy science fiction, listening to music, and getting to know people. 
 
-Visit my website - [https://khyatimahajan.com](https://khyatimahajan.com)
+Feel free to reach out - [https://khyatimahajan.com](https://khyatimahajan.com)!
